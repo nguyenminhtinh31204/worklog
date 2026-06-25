@@ -1,0 +1,30 @@
+# Week 02 - AWS Core Services Practice
+
+## Overview
+
+Focused on hands-on practice with AWS fundamental services:
+IAM, EC2, and S3.
+
+---
+
+# Activities
+
+## 1. AWS IAM
+
+Learned:
+
+- Users
+- Groups
+- Roles
+- Policies
+
+Implemented:
+
+```text
+IAM User
+    |
+    |
+IAM Policy
+    |
+    |
+AWS Resource Access

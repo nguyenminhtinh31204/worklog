@@ -54,4 +54,64 @@ Studied:
 ## 3. AWS Core Services Introduction
 
 Explored:
+AWS Cloud
+│
+├── Compute
+│ └── Amazon EC2
+│
+├── Storage
+│ └── Amazon S3
+│
+├── Database
+│ └── Amazon RDS
+│
+└── Security
+└── IAM
+
+---
+
+## 4. Environment Setup
+
+Completed:
+
+- AWS Account setup
+- AWS Management Console exploration
+- Development tools installation
+
+---
+
+# 🧠 Knowledge Gained
+
+After completing this week:
+
+- Understand basic cloud concepts.
+- Understand AWS service categories.
+- Know how to navigate AWS Console.
+- Understand the role of cloud computing in modern applications.
+
+---
+
+# 📝 Notes
+
+Cloud computing allows organizations to build scalable,
+secure and cost-efficient applications without managing physical infrastructure.
+
+---
+
+# 📂 Repository Contents
+Week-01/
+│
+├── README.md
+│
+└── screenshots/
+└── aws-console.png
+
+---
+
+# 🚀 Next Week Plan
+
+- Learn AWS IAM.
+- Deploy EC2 instances.
+- Practice Amazon S3.
+- Understand AWS resource management.
 
