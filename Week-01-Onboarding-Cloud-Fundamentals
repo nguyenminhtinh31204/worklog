@@ -1,1 +1,57 @@
+# Week 01 - AWS Internship Onboarding & Cloud Fundamentals
+
+## 📌 Overview
+
+The first week of AWS Workforce Bootcamp - First Cloud AI Journey focused on
+understanding cloud computing fundamentals, AWS ecosystem, and preparing the
+learning environment.
+
+---
+
+## 🎯 Objectives
+
+- Understand basic concepts of Cloud Computing.
+- Get familiar with AWS ecosystem.
+- Setup AWS learning environment.
+- Learn AWS core service categories.
+
+---
+
+# 📚 Learning Activities
+
+## 1. Internship Onboarding
+
+Topics covered:
+
+- AWS company culture.
+- Internship roadmap.
+- Learning objectives.
+- Working environment introduction.
+
+---
+
+## 2. Cloud Computing Fundamentals
+
+Studied:
+
+### Cloud Deployment Models
+
+- Public Cloud
+- Private Cloud
+- Hybrid Cloud
+
+
+### Cloud Service Models
+
+| Model | Description |
+|---|---|
+| IaaS | Infrastructure as a Service |
+| PaaS | Platform as a Service |
+| SaaS | Software as a Service |
+
+---
+
+## 3. AWS Core Services Introduction
+
+Explored:
 
