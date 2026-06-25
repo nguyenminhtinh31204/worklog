@@ -1,0 +1,30 @@
+# Week 04 - Monitoring & Database Services
+
+## Learning Objectives
+
+Learn how to monitor cloud systems and manage databases.
+
+## Activities
+
+## Amazon CloudWatch
+
+Practiced:
+
+- Monitoring metrics.
+- Reviewing logs.
+- Creating alarms.
+
+
+## Amazon RDS
+
+Learned:
+
+- Managed database services.
+- Database deployment.
+- Application-database connectivity.
+
+
+## Key Outcomes
+
+- Understand cloud monitoring.
+- Manage database resources on AWS.

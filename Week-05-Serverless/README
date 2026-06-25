@@ -1,0 +1,39 @@
+# Week 05 - Serverless Architecture
+
+## Learning Objectives
+
+Understand modern serverless application design.
+
+## Activities
+
+## AWS Lambda
+
+Practiced:
+
+- Creating Lambda functions.
+- Handling events.
+- Managing execution permissions.
+
+
+## API Gateway
+
+Learned:
+
+- API management.
+- Connecting APIs with Lambda.
+
+
+Workflow:
+Client
+↓
+API Gateway
+↓
+Lambda Function
+↓
+CloudWatch
+
+
+## Key Outcomes
+
+- Understand serverless architecture.
+- Build event-driven applications.
